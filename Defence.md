@@ -18,6 +18,9 @@ https://github.com/epinna/tplmap
 简单的linux发行版安全监控脚本
 https://github.com/EgeBalci/The-Eye
 
+百宝箱——工具集合
+https://github.com/starnightcyber/Miscellaneous 
+
 CIDRAM （无类别域间路由访问管理器）是一个PHP脚本，旨在保护网站途经阻止请求该从始发IP地址视为不良的流量来源.
 https://github.com/Maikuolan/CIDRAM
 
@@ -186,6 +189,9 @@ https://github.com/biggiesmallsAG/nightHawkResponse
 
 secure-ls 高水平加密和数据压缩的本地安全存储
 https://github.com/softvar/secure-ls
+
+容器安全镜像Liter,帮助构建最好的Docker镜像 
+https://github.com/goodwithtech/dockle
 
 有关linux容器安全，命名空间，cgroups等等的gitbook
 https://github.com/makash/linux-container-security-docs

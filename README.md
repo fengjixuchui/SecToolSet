@@ -28,6 +28,12 @@
 
 ## 近期安全热点
 
+[Ubuntu提权漏洞，利用gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
+
+[Nmap 7.9发布，更新Npcap，大量指纹更新](https://seclists.org/nmap-announce/2020/1)
+
+[Windows Server域控 Netlogon特权提升漏洞 CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472)
+
 [暗网中网络安全行业暴露状况研究](https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html)
 
 [五眼联盟国家网络安全技术指导书](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)

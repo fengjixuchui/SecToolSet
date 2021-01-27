@@ -28,6 +28,16 @@
 
 ## 近期安全热点
 
+[Sudo严重堆溢出漏洞 CVE-2021-3156](https://www.toutiao.com/a6922256117624259076/)
+
+[Windows 加密BitLocker爆锁屏绕过严重漏洞CVE-2020-1398](https://www.toutiao.com/i6918938090983834124/)
+
+[Microsoft 365 Defender研究团队和威胁情报中心（MSTIC）的SolarWinds攻击分析文章](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+
+[OpenSSL 拒绝式攻击严重漏洞CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)
+
+[安全论文：《Measuring and Preventing Supply Chain Attacks on Package Managers》](https://arxiv.org/pdf/2002.01139.pdf)
+
 [Ubuntu提权漏洞，利用gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 
 [Nmap 7.9发布，更新Npcap，大量指纹更新](https://seclists.org/nmap-announce/2020/1)
